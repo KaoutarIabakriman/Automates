@@ -1,0 +1,12 @@
+digraph automate{
+1 -> 1 [label=a];
+2 -> 2 [label=b];
+0 -> 1 [label=a];
+1 -> 2 [label=b];
+0 -> 2 [label=b];
+0 [color=green];
+2 [color=blue];
+1 [color=blue];
+0 [style=filled,color=blue];
+0 [style=filled,color=blue];
+}

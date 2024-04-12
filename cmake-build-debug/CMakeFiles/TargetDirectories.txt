@@ -1,0 +1,3 @@
+C:/Users/Utilisateur/Downloads/automate (6)/automate/cmake-build-debug/CMakeFiles/automate.dir
+C:/Users/Utilisateur/Downloads/automate (6)/automate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utilisateur/Downloads/automate (6)/automate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

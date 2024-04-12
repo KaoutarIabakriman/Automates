@@ -1,0 +1,14 @@
+digraph union {
+subgraph A1{
+a0 -> a1 [label=a];
+a1 -> a0 [label=b];
+}
+subgraph A2{
+b2 -> b3 [label=a];
+b3 -> b4 [label=b];
+}
+start -> a0 [label=ε]; 
+start -> b2 [label=ε]; 
+a1 -> end [label=ε]; 
+b4 -> end [label=ε]; 
+}

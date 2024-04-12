@@ -1,0 +1,8 @@
+digraph union {
+a0 -> a1 [label=a];
+a1 -> a0 [label=b];
+start -> a0 [label=ε]; 
+a1 -> end [label=ε]; 
+start -> end [label=ε]; 
+end -> a0 [label=ε]; 
+}

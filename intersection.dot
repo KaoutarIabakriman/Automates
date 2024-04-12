@@ -1,0 +1,6 @@
+digraph intersection {
+0 -> 1 [label="a"];
+1 -> 2 [label="b"];
+0 [color=green];
+2 [color=blue];
+}

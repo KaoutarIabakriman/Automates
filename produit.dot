@@ -1,0 +1,6 @@
+digraph produit {
+a0 -> a1 [label=a];
+a1 -> a0 [label=b];
+a1 -> b2 [label=ε];b2 -> b3 [label=a];
+b3 -> b4 [label=b];
+}
